@@ -33,10 +33,10 @@ INSERT INTO Students (ID, Name, Marks) VALUES
 (4, 'Scarlet', 78),
 (5, 'Ashley', 63),
 (6, 'Jane', 81),
-(7, 'Lily', 75),      -- Additional test case (Grade 8)
-(8, 'Robert', 30),    -- Additional test case (Grade 4)
-(9, 'Emily', 92),     -- Additional test case (Grade 10)
-(10, 'David', 55);    -- Additional test case (Grade 6)
+(7, 'Lily', 75),     
+(8, 'Robert', 30),    
+(9, 'Emily', 92),    
+(10, 'David', 55);  
 
 SELECT 
     CASE 
