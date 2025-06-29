@@ -75,9 +75,9 @@ INSERT INTO Submissions VALUES
 (38355, 27205, 66730, 35),
 (3924, 8439, 36566, 80);  
 
-UPDATE Submissions SET score = 100 WHERE submission_id = 7344;  -- Challenge 66730 (difficulty 6)
-UPDATE Submissions SET score = 120 WHERE submission_id = 3924;   -- Challenge 36566 (difficulty 7)
-UPDATE Submissions SET score = 100 WHERE submission_id = 55877;  -- Challenge 66730 (difficulty 6)    
+UPDATE Submissions SET score = 100 WHERE submission_id = 7344; 
+UPDATE Submissions SET score = 120 WHERE submission_id = 3924;  
+UPDATE Submissions SET score = 100 WHERE submission_id = 55877;  
     
 SELECT s.hacker_id, h.name, s.challenge_id, s.score, d.score AS max_score
 FROM Submissions s
