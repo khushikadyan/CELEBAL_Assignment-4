@@ -20,7 +20,7 @@ This repository contains SQL solutions for Assignment 4 as part of the Celebal T
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Open **VS Code** or any preferred SQL editor.
 2. Connect to your **MySQL** database.
 3. Open the `.sql` file and run the query directly.
@@ -31,7 +31,7 @@ This repository contains SQL solutions for Assignment 4 as part of the Celebal T
    git clone <repository-url>
    cd file_name;
    ```
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **SQL**
 - **MySQL**
@@ -39,7 +39,7 @@ This repository contains SQL solutions for Assignment 4 as part of the Celebal T
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Each problem solution is accompanied by a screenshot showcasing the output/result.
 
