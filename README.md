@@ -45,6 +45,7 @@ Each problem solution is accompanied by a screenshot showcasing the output/resul
 
 
 1.Weather_ObservationStation8 -
+
 ![Screenshot 2025-06-29 121925](https://github.com/user-attachments/assets/828eb6f0-1ae6-43c4-93e6-837e985a64e9)
 
 ![Screenshot 2025-06-29 121944](https://github.com/user-attachments/assets/2a7199e4-3690-4dde-aa00-425e6ce24ee1)
